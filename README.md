@@ -16,7 +16,7 @@ encryption block.
 A test of functionalities (with test of the AES 256 test vectors) is
 included.
 
-Two utilities to encrypt and decrypt files are also included, after building the project you can find them in the `util` directory.
+Two utilities to encrypt and decrypt files are also included that you can find them in the `util` directory.
 
 
 ## Compile
